@@ -10,7 +10,7 @@ import org.testng.annotations.BeforeClass;
 
 public class BaseClass {
 	
-
+//pull test from git
 	public WebDriver driver;
 
 		@BeforeClass
@@ -29,6 +29,7 @@ public class BaseClass {
 					 // driver = new FirefoxDriver();
 					  System.out.println("after firefox");
 					 //driver.get("https://login.naukri.com/nLogin/Login.php");
+			
 				 
 				  
 				 
