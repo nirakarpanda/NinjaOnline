@@ -45,10 +45,5 @@ public class MainlPageCall extends BaseClass  {
 		addcartpage.clicklAddTocartBtn();
 		System.out.println("end of addtokart link method");
 	}
-	@Test(priority=3)
-	public void AddToCartduolicate(){
-		System.out.println("start of addtokart link method");
-		addcartpage.clicklAddTocartBtn();
-		System.out.println("end of addtokart link method");
-	}
+	
 }
